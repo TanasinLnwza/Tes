@@ -1,0 +1,8 @@
+.Border-header {
+  background-color: rgba(255, 255, 255, 0.63);
+  border: 20px double #000000;
+  border-radius: 40px 6px 40px 0px;
+  padding: 2px;
+  box-shadow: -7px 2px 8px 4px rgba(255, 255, 255, 0.459);
+  
+  }
